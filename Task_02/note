@@ -1,0 +1,8 @@
+Hello!
+
+I left both the factorial.c file and factorial excutable, but I don't think the
+factorial.c file is necessary. It will still run without the factorial.c file.
+
+On the Deliverables section:
+You have "test_file" as the Output Format Example
+But I used "test_file.txt", I hope thats alright?
